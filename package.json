@@ -1,0 +1,17 @@
+{
+	"name": "@itbg/congressus-client",
+	"version": "1.0.0",
+	"private": false,
+	"type": "module",
+	"exports": {
+		".": "./src/index.ts"
+	},
+	"scripts": {
+		"client:generate": "openapi-ts",
+		"lint": "biome check --write"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.2.3",
+		"@hey-api/openapi-ts": "^0.82.4"
+	}
+}

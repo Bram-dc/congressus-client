@@ -1,0 +1,21 @@
+# MacOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Build
+dist/
+
+# Typescript
+*.tsbuildinfo
+
+# Editor
+.idea
+.vscode
+
+# Cache
+.npm
+
+# Logs
+*.log
