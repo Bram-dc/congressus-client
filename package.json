@@ -1,6 +1,6 @@
 {
 	"name": "@itbg-dsc/congressus-client",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"homepage": "https://github.com/Bram-dc/congressus-client",
 	"private": false,
 	"publishConfig": {
