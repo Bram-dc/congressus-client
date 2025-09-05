@@ -1,6 +1,6 @@
-# @itbg/congressus-client
+# @itbg-dsc/congressus-client
 
-[![npm version](https://img.shields.io/npm/v/@itbg/congressus-client.svg)](https://www.npmjs.com/package/@itbg/congressus-client)
+[![npm version](https://img.shields.io/npm/v/@itbg-dsc/congressus-client.svg)](https://www.npmjs.com/package/@itbg-dsc/congressus-client)
 
 A generated TypeScript client for the Congressus API.
 
@@ -8,13 +8,13 @@ A generated TypeScript client for the Congressus API.
 ## Installation
 
 ```bash
-npm install @itbg/congressus-client
+npm install @itbg-dsc/congressus-client
 ```
 
 
 ## Usage
 ```typescript
-import { client } from '@itbg/congressus-client';
+import { client } from '@itbg-dsc/congressus-client';
 
 async function main() {
   const data = await client.someEndpoint();

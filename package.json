@@ -1,5 +1,5 @@
 {
-	"name": "@itbg/congressus-client",
+	"name": "@itbg-dsc/congressus-client",
 	"version": "1.0.0",
 	"private": false,
 	"type": "module",
