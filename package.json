@@ -2,6 +2,9 @@
 	"name": "@itbg-dsc/congressus-client",
 	"version": "1.0.0",
 	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
 	"type": "module",
 	"exports": {
 		".": "./dist/src/index.js"
